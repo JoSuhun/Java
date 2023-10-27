@@ -5,6 +5,6 @@ public class Person {
 	int age;
 	
 	public void eat() {
-		System.out.println("À½½ÄÀ» ¸Ô´Â´Ù.");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ô´Â´ï¿½.");
 	}
 }
